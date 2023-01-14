@@ -4,11 +4,19 @@
     // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+        
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        
         {
             "type": "chrome",
             "request": "launch",
             "name": "Open school project.html",
-            "file": "c:\\Users\\valya\\OneDrive\\Рабочий стол\\Project\\school project.html"
+            "file": "C:\\Users\\valya\\OneDrive\\Рабочий стол\\GitHub repositories\\SchoolProject\\school project.html"
         }
     ]
 }

@@ -4,16 +4,16 @@
     margin:auto; 
     padding-left:60px;
 }
- 
+  /* БАГ */
 h2.contact { 
     padding-left: 125px; 
     font-size: 66px; 
     color: #ff5400; 
     height: 105px; 
-    background: url(images/contact.png) no-repeat -10px -10px;  
+    background: url(/Feedbackform/images/contact.png) no-repeat -10px -10px;  
     font-family: sans-serif;
 }
- 
+ /* БАГ */
 p.contact { 
     font-size: 24px; 
     margin-bottom: 15px; 
