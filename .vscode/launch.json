@@ -7,9 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Запустить Chrome на localhost",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "name": "Open school project.html",
+            "file": "c:\\Users\\valya\\OneDrive\\Рабочий стол\\Project\\school project.html"
         }
     ]
 }
