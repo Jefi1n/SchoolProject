@@ -4,8 +4,6 @@
     // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-<<<<<<< HEAD
-=======
     {
         "name": "Launch Edge",
         "request": "launch",
@@ -13,7 +11,6 @@
         "url": "http://localhost:8080",
         "webRoot": "${workspaceFolder}"
     },
->>>>>>> b4f9b8398fd15b2c5231f63a6d521ff48557dbee
         {
             "type": "chrome",
             "request": "launch",
